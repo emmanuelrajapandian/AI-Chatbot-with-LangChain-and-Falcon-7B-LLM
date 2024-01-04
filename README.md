@@ -1,0 +1,1 @@
+Hi. This is a WCA Chatbot aimed at helping new speedcubers and likewise seasoned cubers to retrieve answers related to speedcubing using the chatbot built using Mistral-7B Model and using RAG, Langchains.
