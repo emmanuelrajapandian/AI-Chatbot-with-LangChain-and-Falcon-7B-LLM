@@ -1,6 +1,0 @@
-[theme]
-base="light"
-primaryColor="purple"
-
-[server]
-enableStaticServing = true
