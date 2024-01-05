@@ -29,7 +29,7 @@ This project is a dynamic endeavor, and future enhancements are as follows:
 * With the recent `Mixtral-8x7B-Instruct-v0.1` LLM, I was thinking of this and other LLMs to test the capability and power of each Large Language Model.
 * Using `ConversationalRetrievalChain`, the chatbot can have access to chat history and therefore have continous followup questions from the user.
 
-Feel free to provide feedback, or hit me up if you want to discuss on this in depth.
+Feel free to explore the code, experiment with customizations, and hit me up if you want to discuss on this in depth.
 Happy coding! 🤖✨
 
 
