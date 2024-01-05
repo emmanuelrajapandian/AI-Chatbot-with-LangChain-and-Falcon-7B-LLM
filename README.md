@@ -32,7 +32,9 @@ This project is a dynamic endeavor, and future enhancements are as follows:
 Feel free to explore the code, experiment with customizations, and hit me up if you want to discuss on this in depth.
 Happy coding! 🤖✨
 
+---
 
+**Author:** J Emmanuel Rajapandian 
+**GitHub Repository:** [AI-Chatbot-with-LangChain-and-Falcon-7B-LLM]([https://github.com/4N1Z/hotel-coChat-Cohere](https://github.com/emmanuelrajapandian/AI-Chatbot-with-LangChain-and-Falcon-7B-LLM))  
 
-
-
+For inquiries and feedback, please contact me at [emmanuel.rajapandian@gmail.com](mailto:emmanuel.rajapandian@gmail.com]).
