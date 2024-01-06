@@ -3,7 +3,7 @@
 Welcome to the repository for my AI chatbot project, where I've created a conversational agent leveraging the capabilities of LangChain, the 8-bit quantized Falcon-7B Language Model (LLM), and Chroma DB. I've developed a chatbot equipped with the capacity to learn from the external world through Retrieval Augmented Generation (RAG).
 
 ## Project Overview
-The inspiration for this project stems from my passion for speed-cubing, a hobby I've enjoyed for the past 10 years. To fill intelligence into the chatbot, I decided to build it by extracting data from the official World Cube Association (WCA) website, including guidelines, regulations, and other relevant information. This dataset serves as the bedrock, enabling the chatbot to respond adeptly to queries related to speed-cubing, its rules, and guidelines.
+I started this project because I wanted to learn a new technology stack and apply it to something I really enjoy—speedcubing, which is a hobby of mine for the past 10 years. To make the chatbot smarter, I decided to build it by getting information from the official WCA website, like rules and guidelines. This information forms the base, helping the chatbot answer questions about speedcubing and its rules.
 
 ## Data Extraction and Integration
 The heart of the chatbot lies in the data extracted from the WCA website. By incorporating information about speed-cubing, its intricacies, and the official guidelines, the chatbot becomes a valuable resource for speedcubers seeking information or assistance.
