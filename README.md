@@ -9,7 +9,7 @@ I started this project because I wanted to learn a new technology stack and appl
 The heart of the chatbot lies in the data extracted from the WCA website. By incorporating information about speed-cubing, its intricacies, and the official guidelines, the chatbot becomes a valuable resource for speedcubers seeking information or assistance.
 
 ## Features
-* LangChain: Harnessing the power of LangChain, the chatbot exhibits natural language processing capabilities.
+* LangChain 🦜️🔗: Harnessing the power of LangChain, the chatbot exhibits natural language processing capabilities.
 * Falcon-7B LLM: The use of the 8-bit quantized Falcon-7B LLM enhances the efficiency and performance of the chatbot's language understanding. The quantized model also helps the code run faster in comparison to the full 7B model.
 * Chroma DB: This integration contributes to a more comprehensive and dynamic knowledge base, enabling the chatbot to provide contextually relevant responses.
 * Retrieval Augmented Generation (RAG) Pipeline: The RAG pipeline facilitates the chatbot's ability to learn from the external world, ensuring adaptive and informed responses.
